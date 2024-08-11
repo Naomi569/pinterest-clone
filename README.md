@@ -18,4 +18,4 @@ Podrás encontrarlo aquí [pinterest-clone] (https://pinterest-clone-ivory.verce
 * Contenido de imágenes
 
 ### Captura del proyecto
-![captura-pinterest] ( /imagenes/CapturaPinterestClone.png )
+![capturaClonePinterest](/imagenes/CapturaPinterestClone.png)
